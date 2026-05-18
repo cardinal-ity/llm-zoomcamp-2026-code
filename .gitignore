@@ -5,3 +5,4 @@ faq.db*
 *.db-shm
 *.db-wal
 *.pyc
+__pycache__/
